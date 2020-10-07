@@ -1,2 +1,2 @@
-# PruebaProyecto
-Prueva de creacion de ramas y push/pull 
+# Proyecto POO
+Creacion de la aplicacion de escritorio UMA
