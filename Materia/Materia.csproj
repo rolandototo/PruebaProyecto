@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{73E06FEF-5594-4B47-8A79-F3B463A3A3E1}</ProjectGuid>
+    <ProjectGuid>{7B2F9CAC-556A-4E86-806A-102E43B03BC8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Uma</RootNamespace>
-    <AssemblyName>Uma</AssemblyName>
+    <RootNamespace>Materia</RootNamespace>
+    <AssemblyName>Materia</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,22 +52,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Materias_Inscrip.cs" />
-    <Compile Include="Materias_InscripF.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Materias_InscripF.Designer.cs">
-      <DependentUpon>Materias_InscripF.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Pago.cs" />
-    <Compile Include="PagoF.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="PagoF.Designer.cs">
-      <DependentUpon>PagoF.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
