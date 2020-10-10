@@ -8,6 +8,8 @@ namespace Uma
 {
     class Nota
     {
+        private List<Notas> Grupos = new List<Notas>();
+
         static void Agregar_Nota()
         {
 

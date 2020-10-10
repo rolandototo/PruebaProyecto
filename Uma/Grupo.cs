@@ -8,6 +8,8 @@ namespace Uma
 {
     class Grupo
     {
+        private List<Alum> Grupos = new List<Alum>();
+
         static void Call_Honorarios()
         {
 

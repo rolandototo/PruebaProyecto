@@ -8,6 +8,9 @@ namespace Uma
 {
     class Maestro
     {
+        private string Id_maestro;
+        private List<Grupos> Grupos = new List<Grupos>();
+
         static void Mostrar_Grupos()
         {
 
