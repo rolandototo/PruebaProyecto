@@ -1,0 +1,9 @@
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\bin\Debug\Uma.exe.config
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\bin\Debug\Uma.exe
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\bin\Debug\Uma.pdb
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.csprojAssemblyReference.cache
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.Properties.Resources.resources
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.csproj.GenerateResource.cache
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.exe
+C:\Users\karen\Desktop\UDB\POO\Git\Uma\obj\Debug\Uma.pdb
