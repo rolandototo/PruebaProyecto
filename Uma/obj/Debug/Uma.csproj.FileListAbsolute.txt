@@ -1,0 +1,4 @@
+C:\Users\rolan\Documents\GitHub\PruebaProyecto\Uma\obj\Debug\Uma.csprojAssemblyReference.cache
+C:\Users\rolan\Documents\GitHub\PruebaProyecto\Uma\obj\Debug\Uma.Properties.Resources.resources
+C:\Users\rolan\Documents\GitHub\PruebaProyecto\Uma\obj\Debug\Uma.csproj.GenerateResource.cache
+C:\Users\rolan\Documents\GitHub\PruebaProyecto\Uma\obj\Debug\Uma.csproj.CoreCompileInputs.cache
