@@ -67,6 +67,11 @@
     <Compile Include="PagoF.Designer.cs">
       <DependentUpon>PagoF.cs</DependentUpon>
     </Compile>
+
+    <Compile Include="Grupo.cs" />
+    <Compile Include="Maestro.cs" />
+    <Compile Include="Nota.cs" />
+
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
