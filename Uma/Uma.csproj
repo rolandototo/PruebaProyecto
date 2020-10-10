@@ -52,11 +52,32 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGrupo.Designer.cs">
+      <DependentUpon>FormGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNota.Designer.cs">
+      <DependentUpon>FormNota.cs</DependentUpon>
+    </Compile>
     <Compile Include="Grupo.cs" />
     <Compile Include="Maestro.cs" />
     <Compile Include="Nota.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGrupo.resx">
+      <DependentUpon>FormGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNota.resx">
+      <DependentUpon>FormNota.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
