@@ -35,6 +35,8 @@ namespace Uma
         public void Destruir() { }
 
         public void Edit_Conection() { }
+
+
     }
     public class Grupos_Alum
     {
@@ -56,7 +58,6 @@ namespace Uma
     }
     public class InnerGroupAlum
     {
-
         public InnerGroupAlum()
         {
         }
