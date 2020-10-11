@@ -31,21 +31,6 @@ namespace Uma
         }
     }
 
-    public class MensualidadesF
-    {
-        List<Mensualidad> Mensualidades = new List<Mensualidad>();
-
-        public void Mostrar_Mensualidad()
-        {
-
-        }
-
-        public void Edit_Conection()
-        {
-
-        }
-    }
-
     public abstract class Pago_Mensualidad
     {
         private string id_pago;
