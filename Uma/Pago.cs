@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Pago : Grupo_Inscri
+    public partial class Pago : Form
     {
         public Pago()
         {

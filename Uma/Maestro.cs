@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Maestro : LogIn
+    public partial class Maestro : Form
     {
         public Maestro()
         {
@@ -21,10 +21,10 @@ namespace Uma
 
         }
 
-        public override string Edit_Connection()
-        {
-            return "";
-        }
+        //public override string Edit_Connection()
+        //{
+        //    return "";
+        //}
 
         public void Crear()
         {

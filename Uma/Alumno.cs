@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Alumno : LogIn
+    public partial class Alumno : Form
     {
         public Alumno()
         {
@@ -34,10 +34,10 @@ namespace Uma
 
         public void Destruir() { }
 
-        public override string Edit_Connection()
-        {
-            return "";
-        }
+        //public override string Edit_Connection()
+        //{
+        //    return "";
+        //}
     }
     public class Grupos_Alum
     {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Create_U : LogIn
+    public partial class Create_U : Form
 
     {
         public Create_U()

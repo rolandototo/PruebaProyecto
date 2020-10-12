@@ -11,7 +11,7 @@ using System.Xml.Serialization;
 
 namespace Uma
 {
-    public partial class Mensualidad : Alumno
+    public partial class Mensualidad : Form
     {
         public Mensualidad()
         {
@@ -23,10 +23,10 @@ namespace Uma
         {
 
         }
-        public override string Edit_Connection()
-        {
-            return "";
-        }
+        //public override string Edit_Connection()
+        //{
+        //    return "";
+        //}
     }
     public class Mensualidades
     {

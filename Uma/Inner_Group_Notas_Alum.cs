@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Inner_Group_Notas_Alum : Alumno
+    public partial class Inner_Group_Notas_Alum : Form
     {
         public Inner_Group_Notas_Alum()
         {
@@ -26,10 +26,10 @@ namespace Uma
 
         public void Mostrar_Doc_Revisado() { }
 
-        public override string Edit_Connection()
-        {
-            return "";
-        }
+        //public override string Edit_Connection()
+        //{
+        //    return "";
+        //}
     }
     public class Notas_Alum
     {

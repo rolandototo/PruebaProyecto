@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Materias_Inscrip : Inscribir_Materias 
+    public partial class Materias_Inscrip : Form
 
     {
         public Materias_Inscrip()

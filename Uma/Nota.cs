@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Uma
 {
-    public partial class Nota : Grupo
+    public partial class Nota : Form
     {
         public Nota()
         {
@@ -36,10 +36,10 @@ namespace Uma
 
         }
 
-        public override string Edit_Connection()
-        {
-            return "";
-        }
+        //public override string Edit_Connection()
+        //{
+        //    return "";
+        //}
     }
 
     class Notas
