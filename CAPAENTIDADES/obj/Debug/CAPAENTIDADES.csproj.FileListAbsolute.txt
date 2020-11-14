@@ -1,0 +1,6 @@
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\bin\Debug\CAPAENTIDADES.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\bin\Debug\CAPAENTIDADES.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\obj\Debug\CAPAENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\obj\Debug\CAPAENTIDADES.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\obj\Debug\CAPAENTIDADES.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPAENTIDADES\obj\Debug\CAPAENTIDADES.csprojAssemblyReference.cache

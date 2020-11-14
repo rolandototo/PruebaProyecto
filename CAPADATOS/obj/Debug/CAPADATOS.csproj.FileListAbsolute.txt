@@ -1,0 +1,17 @@
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\CAPADATOS.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\CAPADATOS.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\CAPAENTIDADES.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\CAPAENTIDADES.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\obj\Debug\CAPADATOS.csprojAssemblyReference.cache
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\obj\Debug\CAPADATOS.csproj.CoreCompileInputs.cache
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\obj\Debug\CAPADATOS.csproj.CopyComplete
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\obj\Debug\CAPADATOS.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\obj\Debug\CAPADATOS.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.Permissions.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.Permissions.xml
+C:\Users\josia\Desktop\Alumno Experiencia\CAPADATOS\bin\Debug\System.Security.Principal.Windows.xml

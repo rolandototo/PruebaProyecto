@@ -1,0 +1,11 @@
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPADATOS.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPAENTIDADES.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPADATOS.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\bin\Debug\CAPAENTIDADES.pdb
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csprojAssemblyReference.cache
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csproj.CopyComplete
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.dll
+C:\Users\josia\Desktop\Alumno Experiencia\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.pdb
